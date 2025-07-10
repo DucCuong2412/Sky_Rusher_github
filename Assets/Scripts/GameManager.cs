@@ -214,7 +214,7 @@ public class GameManager : SingletonMB<GameManager>
 		PlayerPrefs.SetInt(Constants.c_LevelSave, _Lvl);
 	}
 
-	public int GetLevel()
+	public int GetLevel()////////////curent level
 	{
 		if (PlayerPrefs.HasKey(Constants.c_LevelSave))
 		{

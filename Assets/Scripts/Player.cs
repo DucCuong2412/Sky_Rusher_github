@@ -142,7 +142,7 @@ public class Player : SingletonMB<Player>
 			StartCoroutine(Launch());
 			break;
 		case GamePhase.SAVE_ME:
-			Die();
+			//Die();
 			break;
 		case GamePhase.CONTINUE_GAME:
 			Revive();
@@ -150,7 +150,7 @@ public class Player : SingletonMB<Player>
 		case GamePhase.SUCCESS:
 			if (m_GameManager.GetVibrations())
 			{
-				Handheld.Vibrate();
+				//Handheld.Vibrate();
 			}
 			Object.Instantiate(m_EndEffect, m_PosBuffer, Quaternion.identity);
 			break;
@@ -201,11 +201,14 @@ public class Player : SingletonMB<Player>
 
 	private void Die()
 	{
-		if (!m_IsDead)
+        //Debug.Log("Player die");
+        //Debug.Log("score=" + GameManager.Instance.GetLevel());
+        gmsoft.Analytics.LogEvent("player_Die: ", GameManager.Instance.GetLevel());
+        if (!m_IsDead)
 		{
 			if (m_GameManager.GetVibrations())
 			{
-				Handheld.Vibrate();
+				//Handheld.Vibrate();
 			}
 			m_IsDead = true;
 			m_ForwardSpeed = 0f;
