@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9b165ef1ea284240b08a45dddf27163e
+timeCreated: 1752143680
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "SkyRusher"
+  fontNames:
+  - Avenir Next LT Pro
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

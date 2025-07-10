@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 643481b2aca1bc81a587670a6d8e668c, type: 3}
+  m_Name: "Valkyrie"
+  m_EditorClassIdentifier: 
+  m_SaveId: "Valkyrie"
+  m_Preview: {fileID: 21300000, guid: 02200585aa03480a8df703c2154e2145, type: 3}
+  m_Prefab: {fileID: 1791798908502204563, guid: f1301baf4ce8a49b4b8d162964391778, type: 2}
+  m_Category: 2
+  m_Order: 0
+  m_Price: 1000

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6e9a53a37c2241c288666cf51d48adb3
+timeCreated: 1752143678
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "Lato-Black"
+  fontNames:
+  - Lato
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 643481b2aca1bc81a587670a6d8e668c, type: 3}
+  m_Name: "Scimitar"
+  m_EditorClassIdentifier: 
+  m_SaveId: "Scimitar"
+  m_Preview: {fileID: 21300000, guid: 6d5baac2464d4d35aa5afdef50c31278, type: 3}
+  m_Prefab: {fileID: 1791798908502204568, guid: f226cb7984b8848c58da7ff84378df10, type: 2}
+  m_Category: 3
+  m_Order: 4
+  m_Price: 1500

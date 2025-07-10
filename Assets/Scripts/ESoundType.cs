@@ -1,0 +1,9 @@
+public enum ESoundType
+{
+	INTRO,
+	STARTAMBIANCE,
+	BONUS,
+	EXPLOSION,
+	ENDWOOSH,
+	CLICK
+}

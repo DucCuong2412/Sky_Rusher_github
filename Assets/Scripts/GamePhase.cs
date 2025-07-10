@@ -1,0 +1,10 @@
+public enum GamePhase
+{
+	MAIN_MENU,
+	INTRO,
+	GAME,
+	SAVE_ME,
+	CONTINUE_GAME,
+	FAILED,
+	SUCCESS
+}

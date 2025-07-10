@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7bae459dab2717fb8ddf4a1454fa7b, type: 3}
+  m_Name: "Final"
+  m_EditorClassIdentifier: 
+  _french: "J\u2019autorise l\u2019application \u00E0 collecter mes informations d\u2019usage et
+  de navigation pour optimiser les services qui me sont offerts."
+  FrenchFontSize: 38
+  _english: "I consent to Voodoo's use of my data to optimize the services offered
+  to me and to show me relevant ads."

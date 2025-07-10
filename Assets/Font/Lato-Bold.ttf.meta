@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cf7a8014e3274fd8869707bf4fa9f885
+timeCreated: 1752143678
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "Lato-Bold"
+  fontNames:
+  - Lato
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

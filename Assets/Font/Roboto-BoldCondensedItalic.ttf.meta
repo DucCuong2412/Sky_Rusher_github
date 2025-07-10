@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0dffaec432b24ec980776a558e7b059c
+timeCreated: 1752143678
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "Roboto-BoldCondensedItalic"
+  fontNames:
+  - Roboto
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

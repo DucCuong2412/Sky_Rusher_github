@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b1c3d58a52cd4148b16e91a19acca24f
+timeCreated: 1752143678
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "Roboto-BlackItalic"
+  fontNames:
+  - Roboto
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

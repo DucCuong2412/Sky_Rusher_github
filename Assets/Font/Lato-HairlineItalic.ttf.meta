@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dc48a00047de47c099030bc863ef5579
+timeCreated: 1752143678
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "Lato-HairlineItalic"
+  fontNames:
+  - Lato
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

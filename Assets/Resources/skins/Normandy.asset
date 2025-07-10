@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 643481b2aca1bc81a587670a6d8e668c, type: 3}
+  m_Name: "Normandy"
+  m_EditorClassIdentifier: 
+  m_SaveId: "Normandy"
+  m_Preview: {fileID: 21300000, guid: 23d1dabfd6324f31939a84e96fdc4eac, type: 3}
+  m_Prefab: {fileID: 1791798908502204561, guid: 32ad3a55bbdd94501868aa065f5fe608, type: 2}
+  m_Category: 3
+  m_Order: 0
+  m_Price: 1500

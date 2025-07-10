@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 643481b2aca1bc81a587670a6d8e668c, type: 3}
+  m_Name: "Tie"
+  m_EditorClassIdentifier: 
+  m_SaveId: "Tie"
+  m_Preview: {fileID: 21300000, guid: 18fb3b852e044c1588f2c9127c810207, type: 3}
+  m_Prefab: {fileID: 1791798908502204571, guid: 41e56dece73a94b4b83c2f74f5ba9db4, type: 2}
+  m_Category: 2
+  m_Order: 2
+  m_Price: 1000

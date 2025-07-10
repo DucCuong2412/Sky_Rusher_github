@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a9ed3b957f1940a683f1d2ddcdce30dd
+timeCreated: 1752143678
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "Lato-SemiboldItalic"
+  fontNames:
+  - Lato
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

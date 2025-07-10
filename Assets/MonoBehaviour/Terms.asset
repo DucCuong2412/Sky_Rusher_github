@@ -1,0 +1,334 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7bae459dab2717fb8ddf4a1454fa7b, type: 3}
+  m_Name: "Terms"
+  m_EditorClassIdentifier: 
+  _french: "Bienvenue dans la politique de confidentialite\u0301 de Voodoo !\n\nLe responsable
+  de traitement est la socie\u0301te\u0301 Voodoo, socie\u0301te\u0301 par actions simplifie\u0301e
+  au capital social de 14 238 euros, immatricule\u0301e en France au Registre
+  du Commerce et des Socie\u0301te\u0301s de Paris sous le nume\u0301ro 792 483 307,
+  dont le sie\u0300ge social est situe\u0301 82 rue du Faubourg Saint-Martin,
+  75010 Paris, France.\n\nLa protection de vos donne\u0301es personnelles
+  est essentielle a\u0300 nos yeux. Vous trouverez dans cette politique
+  de confidentialite\u0301 les informations relatives a\u0300 la manie\u0300re dont
+  nous collectons et traitons ces donne\u0301es.\n\n<size=36>1. CHAMP D\u2019APPLICATION
+  DE LA POLITIQUE DE PROTECTION DES DONNEES PERSONNELLES<\x2fsize>\n\nLa
+  pre\u0301sente politique de protection des donne\u0301es personnelles s\u2019applique
+  a\u0300 l\u2019ensemble de nos applications.\n\n<size=36>2. DONNEES COLLECTE\u0301ES
+  ?<\x2fsize>\n\nAvec votre consentement pre\u0301alable, nous sommes susceptibles
+  de collecter et de traiter tout ou partie des donne\u0301es suivantes
+  lorsque vous utilisez nos applications :\n\n\t\u2022 Donne\u0301es relatives a\u0300
+  votre identite\u0301: pour certains de nos applications, nous sommes susceptibles
+  de collecter des donne\u0301es de votre compte Facebook, lorsque vous
+  vous connectez via Facebook connect : Profil public (nom, pre\u0301nom,
+  a\u0302ge, genre, adresse email, photos de profil, inte\u0301re\u0302ts), adresse
+  email, liste d\u2019amis\n\t\u2022 Identifiants publicitaires IDFA (pour appareils
+  IOS) et GAID (pour appareils Android)\n\t\u2022 Donne\u0301es relatives a\u0300 votre
+  activite\u0301 au sein de nos applications et notamment la manie\u0300re dont
+  vous interagissez avec nos applications (par exemple, comment et
+  quand vous utilisez nos applications) et avec les publicite\u0301s que
+  nous affichons (par exemple, temps passe\u0301 sur celle-ci, e\u0301ventuels
+  clics sur celle-ci)\n\t\u2022 Donne\u0301es relatives a\u0300 votre position ge\u0301ographique
+  (adresse IP)\n\nLe caracte\u0300re obligatoire ou facultatif des donne\u0301es
+  a\u0300 fournir est signale\u0301 lors de la collecte.\n\nNous sommes e\u0301galement
+  susceptibles d\u2019utiliser des cookies qui correspondent a\u0300 des petits
+  fichiers de lettres et de chiffres te\u0301le\u0301charge\u0301s sur votre terminal
+  lorsque vous acce\u0301dez a\u0300 nos applications. (voir le paragraphe relatif
+  aux cookies).\n\n<size=36>3. FINALITE\u0301S DES TRAITEMENTS OPE\u0301RE\u0301S PAR
+  VOODOO ET BASE LE\u0301GALE DES TRAITEMENTS<\x2fsize>\n\nLes donne\u0301es recueillies
+  par Voodoo sont utilise\u0301es pour :\n\n\t- Fournir nos applications et
+  vous permettre de les utiliser de fac\u0327on gratuite\n\t- Assurer et ame\u0301liorer
+  nos applications\n\t- De\u0301velopper de nouvelles applications\n\t- Proposer
+  des annonces personnalise\u0301es et faire en sorte que les publicite\u0301s
+  qui vous sont propose\u0301es dans le cadre de nos applications soient
+  le plus adapte\u0301es possible a\u0300 vos besoins\n\t- Communiquer avec vous,
+  notamment lorsque vous nous contactez par quelque moyen que ce soit\n\nNous
+  ne recueillons tout ou partie des donne\u0301es liste\u0301es ci-avant qu\u2019apre\u0300s
+  avoir recueilli votre consentement expre\u0300s pour les finalite\u0301s pour
+  lesquelles elles sont traite\u0301es, via l\u2019e\u0301mission d\u2019un pop-up dans
+  nos applications.\nVous pouvez a\u0300 tout moment re\u0301voquer votre consentement
+  a\u0300 partir de la page \u00AB Settings \u00BB de nos diffe\u0301rentes applications.\n\n<size=36>4.
+  LA DURE\u0301E DE CONSERVATION DES DONNE\u0301ES<\x2fsize>\n\nVoodoo conserve vos
+  donne\u0301es personnelles pendant la dure\u0301e durant laquelle vous utilisez
+  nos applications.\nAu-dela\u0300 de cette dure\u0301e, les donne\u0301es pourront
+  e\u0302tre anonymise\u0301es et conserve\u0301es a\u0300 des fins exclusivement statistiques
+  et ne donneront lieu a\u0300 aucune exploitation, de quelque nature que
+  ce soit.\n\n<size=36>5. LES CATE\u0301GORIES DE DESTINATAIRES DES DONNE\u0301ES
+  COLLECTE\u0301ES<\x2fsize>\n\nLes Donne\u0301es collecte\u0301es sont a\u0300 usage interne
+  au sein de Voodoo est strictement limite\u0301 aux e\u0301quipes les plus ade\u0301quates
+  pour traiter la demande effectue\u0301e.\n\nNous pouvons toutefois partager
+  les Donne\u0301es collecte\u0301es avec nos prestataires techniques pour la
+  re\u0301alisation des finalite\u0301s de\u0301crites ci-avant.\n\nNous exigeons de
+  manie\u0300re stricte de nos partenaires de toujours agir en conformite\u0301
+  avec les lois applicables en matie\u0300re de protection de Donne\u0301es et
+  d\u2019accorder une attention particulie\u0300re a\u0300 la confidentialite\u0301 de
+  ces Donne\u0301es.\n\nPar application de la re\u0301glementation applicable,
+  tout sous-traitant qui pourrait traiter des donne\u0301es personnelles
+  pour le compte de Voodoo s\u2019engage ainsi en particulier a\u0300 :\n- traiter
+  les donne\u0301es uniquement pour la ou les seule(s) finalite\u0301(s) qui
+  fait\x2ffont l\u2019objet de la sous-traitance,\n- traiter les donne\u0301es conforme\u0301ment
+  aux instructions de Voodoo,\n- garantir la confidentialite\u0301 et la
+  se\u0301curite\u0301 des Donne\u0301es.\n\nVoodoo peut par ailleurs divulguer\x2f transfe\u0301rer
+  vos donne\u0301es personnelles a\u0300 des tiers dans les circonstances particulie\u0300res
+  suivantes:\n- du fait de la loi, dans le cadre d\u2019une proce\u0301dure en
+  justice, d\u2019un litige et\x2fou d\u2019une reque\u0302te des autorite\u0301s publiques
+  de votre pays de re\u0301sidence ou autre ;\n- si la divulgation est ne\u0301cessaire
+  a\u0300 des fins de se\u0301curite\u0301 nationale, d\u2019application de la loi ou autre
+  sujet d\u2019inte\u0301re\u0302t public ;\n- en cas de restructuration, de cession,
+  de fusion ou de vente, au tiers concerne\u0301.\n\n<size=36>6. TRANSFERTS
+  DE DONNE\u0301ES<\x2fsize>\n\nDans l\u2019hypothe\u0300se ou\u0300 vos Donne\u0301es seraient transfe\u0301re\u0301es
+  hors de l\u2019Union Europe\u0301enne, nous nous assurons que :\n- les donne\u0301es
+  personnelles sont transfe\u0301re\u0301es vers des pays reconnus comme offrant
+  un niveau de protection e\u0301quivalent.\n- Les donne\u0301es personnelles
+  sont transfe\u0301re\u0301es vers des entite\u0301s certifie\u0301es au titre du Privacy
+  Shield\n- Pour les donne\u0301es personnelles transfe\u0301re\u0301es en dehors des
+  pays reconnus par la CNIL comme ayant un niveau de protection suffisant,
+  il est fait recours a\u0300 l\u2019un des me\u0301canismes assurant des garanties
+  approprie\u0301es tel que pre\u0301vu par la re\u0301glementation applicable, et
+  en particulier l\u2019adoption de clauses contractuelles types.\n\n<size=36>7.
+  LES DONNE\u0301ES PERSONNELLES DES ENFANTS<\x2fsize>\n\nVoodoo ne recueille
+  sciemment aucune donne\u0301e a\u0300 caracte\u0300re personnel concernant des enfants
+  a\u0302ge\u0301s de moins de 16 ans.\n\n<size=36>8. LES COOKIES<\x2fsize>\n\nVeuillez
+  trouver notre politique en matie\u0300re de cookies ici: https:\x2f\x2fwww.voodoo.io\x2f.\n\n<size=36>9.
+  VOS DROITS SUR LES DONNE\u0301ES QUE NOUS COLLECTONS<\x2fsize>\n\n<size=36>9.1.
+  Vos droits<\x2fsize>\n\nVous disposez de l\u2019ensemble des droits suivants
+  sur les donne\u0301es que nous collectons :\n\n\u2022 Droit d\u2019acce\u0301der a\u0300 vos
+  Donne\u0301es\n\nVous be\u0301ne\u0301ficiez du droit d\u2019obtenir la confirmation que
+  vos donne\u0301es personnelles sont ou ne sont pas traite\u0301es et, lorsqu\u2019elles
+  le sont, du droit d\u2019obtenir l\u2019acce\u0300s auxdites donne\u0301es. Ce droit
+  comprend e\u0301galement celui d\u2019obtenir une copie des donne\u0301es qui font
+  l\u2019objet d\u2019un traitement.\n\n\u2022 Droit de demander la rectification de
+  vos Donne\u0301es si celles-ci sont errone\u0301es\n\nVous be\u0301ne\u0301ficiez du droit
+  de demander que vos donne\u0301es soient rectifie\u0301es, mises a\u0300 jour ou
+  comple\u0301te\u0301es lorsqu\u2019elles s\u2019ave\u0300rent inexactes, errone\u0301es, incomple\u0300tes
+  ou obsole\u0300tes.\n\n\u2022 Droit de demander l'effacement de vos Donne\u0301es\n\nVous
+  be\u0301ne\u0301ficiez du droit de demander l\u2019effacement de vos donne\u0301es uniquement
+  pour les motifs pre\u0301vus par la re\u0301glementation applicable et en particulier
+  lorsque :\n- les Donne\u0301es ne sont plus ne\u0301cessaires au regard des
+  finalite\u0301s pour lesquelles elles ont e\u0301te\u0301 collecte\u0301es ou traite\u0301es
+  d'une autre manie\u0300re;\n- vous retirez le consentement sur lequel est
+  fonde\u0301 le traitement, et il n'existe pas d'autre fondement juridique
+  au traitement ;\n- vous vous opposez au traitement et il n'existe
+  pas de motif le\u0301gitime impe\u0301rieux pour le traitement ;\n- vous conside\u0301rez
+  que vos donne\u0301es ont fait l'objet d'un traitement illicite ;\n- vos
+  donne\u0301es doivent e\u0302tre efface\u0301es pour respecter une obligation le\u0301gale.\n\n\u2022
+  Droit de limiter le traitement vous concernant\n\nVous be\u0301ne\u0301ficiez
+  du droit d\u2019obtenir du responsable du traitement la limitation de
+  l\u2019utilisation de vos donne\u0301es uniquement pour les motifs pre\u0301vus
+  par la re\u0301glementation applicable et en particulier lorsque :\n- vous
+  contestez l'exactitude des Donne\u0301es vous concernant ;\n- vous conside\u0301rez
+  que le traitement est illicite et vous opposez a\u0300 l\u2019effacement de
+  vos donne\u0301es ; - les donne\u0301es vous sont encore ne\u0301cessaires pour
+  la constatation, l'exercice ou la de\u0301fense de droits en justice bien
+  que Voodoo n\u2019en ait plus besoin.\n\n\u2022 Droit de vous opposer a\u0300 leur
+  traitement en retirant votre consentement (e\u0301tant rappele\u0301 que ce
+  retrait ne portera pas atteinte a\u0300 la lice\u0301ite\u0301 du traitement fonde\u0301
+  sur le consentement effectue\u0301 avant le retrait de celui-ci),\n\n\u2022 Droit
+  a\u0300 be\u0301ne\u0301ficier de la portabilite\u0301 de vos donne\u0301es\n\nVous be\u0301ne\u0301ficiez
+  du droit de re\u0301cupe\u0301rer les donne\u0301es que vous avez fournies a\u0300 Voodoo,
+  dans un format structure\u0301, couramment utilise\u0301 et lisible par machine,
+  et du droit de transmettre ces donne\u0301es a\u0300 un autre responsable du
+  traitement, par exemple pour pouvoir changer de fournisseur de service.\n\n\u2022
+  Droit d'introduire une re\u0301clamation aupre\u0300s de la CNIL\n\nSi vous conside\u0301rez
+  que Voodoo ne respecte pas ses obligations au regard de vos donne\u0301es
+  personnelles, vous pouvez a\u0300 tout moment adresser une plainte ou
+  une demande aupre\u0300s de l\u2019autorite\u0301 compe\u0301tente. En France, l\u2019autorite\u0301
+  compe\u0301tente est la CNIL a\u0300 laquelle vous pouvez adresser une demande
+  par voie e\u0301lectronique en cliquant sur le lien suivant : https:\x2f\x2fwww.cnil.fr\x2ffr\x2fplaintes\x2finternet.\n\n<size=36>9.2.
+  Modalite\u0301s d\u2019exercice des droits<\x2fsize>\n\nVous pouvez exercer les
+  droits pre\u0301cite\u0301s sur demande e\u0301crite et de\u0301taille\u0301e a\u0300 l\u2019adresse
+  suivante : dpo@voodoo.io ou DPO-Avocats ~ 11 rue The\u0301odule Ribot
+  ~ 75017 PARIS FR.\n\nEn raison de l\u2019obligation de se\u0301curite\u0301 et de
+  confidentialite\u0301 dans le traitement des Donne\u0301es qui incombe a\u0300 Voodoo,
+  vous e\u0302tes informe\u0301 que votre demande sera traite\u0301e sous re\u0301serve
+  que vous rapportiez la preuve de votre identite\u0301, notamment par la
+  production d\u2019un scan de votre titre d\u2019identite\u0301 valide ou d\u2019une photocopie
+  signe\u0301e de votre titre d\u2019identite\u0301 valide.\n\nVoodoo de\u0301terminera dans
+  un de\u0301lai d\u2019un mois a\u0300 compter de re\u0301ception de la demande formule\u0301e
+  si cette dernie\u0300re est recevable ou non. Dans l\u2019hypothe\u0300se ou\u0300 ladite
+  demande est recevable, Voodoo fournira les informations sollicite\u0301es
+  ou mettra en \u0153uvre les droits invoque\u0301s sans le de\u0301lai pre\u0301cite\u0301.\n\nSi,
+  compte tenu de la complexite\u0301 de la demande ou du nombre de demandes
+  rec\u0327ues, le de\u0301lai pre\u0301cite\u0301 ne peut e\u0302tre respecte\u0301, Voodoo vous
+  informera avant l\u2019expiration de ce de\u0301lai, du report d\u2019un maximum
+  de deux mois de sa de\u0301cision.\n\nVoodoo vous informe qu\u2019elle sera en
+  droit, le cas e\u0301che\u0301ant, de s\u2019opposer aux demandes manifestement
+  abusives (de par leur nombre, leur caracte\u0300re re\u0301pe\u0301titif ou syste\u0301matique).\n\nDans
+  l\u2019hypothe\u0300se ou\u0300 Voodoo ne donnerait pas suite a\u0300 votre demande,
+  nous vous informerons dans les de\u0301lais pre\u0301cite\u0301s des motifs de notre
+  de\u0301cision et de votre possibilite\u0301 de saisir la CNIL d\u2019une re\u0301clamation.\n\n<size=36>10.
+  SE\u0301CURITE\u0301 DES DONNE\u0301ES PERSONNELLES<\x2fsize>\n\nNous mettons en \u0153uvre
+  toutes les mesures de se\u0301curite\u0301 ne\u0301cessaires afin d\u2019empe\u0302cher dans
+  toute la mesure du possible toute alte\u0301ration ou perte de vos donne\u0301es
+  ou tout acce\u0300s non autorise\u0301 a\u0300 celles-ci.\n\nDans l\u2019e\u0301ventualite\u0301
+  ou\u0300 nous prendrions connaissance d\u2019un acce\u0300s ille\u0301gal aux donne\u0301es
+  personnelles vous concernant et correspondant a\u0300 un traitement pour
+  lequel nous sommes responsables, nous nous engageons a\u0300 vous notifier
+  l\u2019incident dans les plus brefs de\u0301lais si cela re\u0301pond a\u0300 une exigence
+  le\u0301gale.\n\n<size=36>11. DPO<\x2fsize>\n\nLa socie\u0301te\u0301 VOODOO a de\u0301signe\u0301
+  un Correspondant a\u0300 la Protection des Donne\u0301es (DPO) aupre\u0300s de la
+  CNIL, sous la re\u0301fe\u0301rence DPO-7915.\nPour exercer vos droits, merci
+  de nous adresser un mail a\u0300 : dpo@voodoo.io ou de nous adresser une
+  correspondance a\u0300 : DPO-Avocats ~ 11 rue The\u0301odule Ribot ~ 75017
+  PARIS FR\n\n<size=36>12. MISE A\u0300 JOUR DE LA PRE\u0301SENTE POLITIQUE<\x2fsize>\n\nLa
+  pre\u0301sente politique peut e\u0302tre mise a\u0300 jour a\u0300 tout moment, notamment
+  en application des dispositions le\u0301gales et\x2fou re\u0301glementaires et\x2fou
+  des recommandations e\u0301ventuelles de la CNIL. Nous vous invitons de\u0300s
+  lors a\u0300 consulter cette page de fac\u0327on re\u0301gulie\u0300re."
+  FrenchFontSize: 0
+  _english: "Welcome to the Voodoo confidentiality policy!\n\nThe processing manager
+  is Voodoo, a simplified joint stock company with share capital of
+  14,238 euros, incorporated in France and entered on the Paris Trade
+  and Companies Register under number 792 483 307, having its registered
+  office at 82 rue du Faubourg Saint-Martin, 75010 Paris, France.\n\nProtection
+  of your personal data is fundamental to us. This confidentiality
+  policy outlines information pertaining to the manner in which we
+  collect a process this data.\n\n<size=36>1. REMIT OF THE PERSONAL DATA
+  PROTECTION POLICY<\x2fsize>\n\nThis personal data protection policy is
+  applicable to all of our data applications.\n\n<size=36>2. WHAT DATA
+  IS COLLECTED?<\x2fsize>\n\nWith your prior consent, we are likely to collect
+  and process the following data in whole or in part when you use our
+  applications.\n\u2022 Identity-related data: for some of our applications,
+  we are likely to collect data from your Facebook account, when you
+  login using Facebook connect: Public profile (surname, forename,
+  age, gender, email address, profile photos, hobbies), email address,
+  friend list\n\u2022 IDFA publicity identifiers (for IOS devices) and GAID
+  (for Android devices)\n\u2022 Data pertaining to your activities on our
+  applications and notably the way in which you interact with our applications
+  (for instance, how and when you use our applications) and with the
+  publicities we display (for instance, time spent on these, potential
+  clicks)\n\u2022 Data pertaining to your geographical position (IP address)\n\nThe
+  compulsory or optional character of data to be provided is indicated
+  at the time of being collected.\n\nWe are also likely to use cookies
+  which correspond to small files containing letters and figures downloaded
+  onto your device when you access our applications. (see paragraph
+  pertaining to cookies).\n\n<size=36>3. PURPOSES OF PROCESSING UNDERTAKEN
+  BY VOODOO AND LEGAL BASIS FOR PROCESSING<\x2fsize>\n\nData collected by
+  Voodoo is used to:\n- Populate our applications and allow you to use
+  them free of charge.\n- Guarantee use and improvement of our applications.\n-
+  Develop new applications\n- Propose personalised adverts and ensure
+  that the adverts proposed in the framework of our\napplications are
+  the most suitable to your requirements\n- Communicate with you, notably
+  when you contact us by any means whatsoever\nWe collect the data listed
+  hereinabove, in whole or in part, only once we have your express
+  consent for the purposes for which they are to be processed, through
+  a pop-up in our applications.\nAt any time you can withdraw your consent
+  from the \"Settings\" page in our various applications.\n\n<size=36>4.
+  TERM OF DATA STORAGE<\x2fsize>\n\nVoodoo stores your personal data for
+  the period of time you use our applications.\nBeyond this term, data
+  may be rendered anonymous and stored solely for statistical use and
+  will not be exploited, in any nature whatsoever.\n\n<size=36>5. CATEGORIES
+  OF RECIPIENTS OF DATA COLLECTED<\x2fsize>\n\nData collected is for internal
+  use within Voodoo and strictly limited to those teams who are the
+  most suitable for the request made.\n\nWe may however share Data collected
+  with our technical service providers for the aforementioned purposes.\n\nWe
+  stringently request that our partners always act in compliance with
+  Data protection legislation applicable and grant special attention
+  to confidentiality of this Data.\n\nBy application of the applicable
+  regulation, any sub-contractor who may process this personal data
+  for Voodoo undertakes as follows:\n- to solely process data for the
+  purpose(s) which is\x2fare sub-contracted,\n- to process data in pursuance
+  with Voodoo instructions,\n- guarantee the security and confidentiality
+  of Data.\n\nVoodoo may also disclose\x2ftransfer your personal data to
+  third parties in the following particular circumstances:\n- by virtue
+  of legislation, as part of legal proceedings, a dispute and\x2for request
+  issued by the public authorities in your country of residence or
+  otherwise;\n- if disclosure is necessary for national security, application
+  of legislation or any other matter of public interest;\n- in the event
+  of restructuring, transfer, merger or sale to the third party concerned.\n\n<size=36>6.
+  DATA TRANSFER<\x2fsize>\n\nIn such instance as your Data is transferred
+  outside of the European Union, we ensure that:\n- the personal data
+  is transferred to countries recognised as offering an equivalent
+  level of protection.\n- Personal data is transferred via certified
+  entities under the Privacy Shield.\n- For personal data transferred
+  outside of countries recognised by the National Data Protection Authority
+  (CNIL) as having a sufficient level of protection, any of the mechanisms
+  offering appropriate guarantees is used, for which provision is made
+  by applicable regulations, and in particular the adoption of template
+  contractual clauses.\n\n<size=36>7. PERSONAL DATA CONCERNING CHILDREN<\x2fsize>\n\nVoodoo
+  does not knowingly collect any personal data concerning children
+  under 15 years old.\n\n<size=36>8. COOKIES<\x2fsize>\n\nPlease see our Cookies
+  policy at http:\x2f\x2fvoodoo.io\n\n<size=36>9. YOUR RIGHTS CONCERNING DATA
+  COLLECTED<\x2fsize>\n\n<size=36>9.1. Your rights<\x2fsize>\n\nYou have all
+  of the following rights concerning the data we collect:\n\n\u2022 Right
+  to access your Data\n\nYou are entitled to receive confirmation that
+  your personal data is or is not processed and, when processed, you
+  are entitled to access said data. This right also includes that of
+  receiving a copy of data processed.\n\n\u2022 Right to request rectification
+  of your Data if incorrect.\n\nYou are entitled to request that your
+  data be amended, updated or completed when inaccurate, incorrect,
+  incomplete or obsolete.\n\n\u2022 Right to request deletion of your Data\n\nYou
+  are entitled to request deletion of your data solely on those grounds
+  for which provision is made by applicable regulation and in particular
+  when:\n- Data is no longer necessary in light of the purposes for
+  which it is collected or processed in any other manner;\n- you withdraw
+  consent over which processing is based, and there is no legal basis
+  for processing;\n- you object to processing and there is no overriding
+  legitimate ground for processing;\n- you consider that your data has
+  been processed illicitly;\n- your data should be deleted to respect
+  a legal obligation.\n\n\u2022 Right to limit processing\n\nYou are entitled
+  to request that the processing manager limit the use of your data
+  solely on those grounds for which provision is made by applicable
+  regulation and in particular when:\n- you object to the accuracy of
+  your Data;\n- you consider that processing is illicit and you object
+  to deletion of your data;\n- data is still required for exercising
+  or defending your rights in court even though Voodoo no longer requires
+  this data,\n\n\u2022 The right to object to processing by withdrawing your
+  consent (with it being reiterated that this withdrawal may not harm
+  the legality of processing based on the consent granted prior to
+  its withdrawal),\n\n\u2022 The right to benefit from data portability\n\nYou
+  are entitled to reclaim your data provided to Voodoo, in a structured
+  format, commonly used and machine-readable, and the right to transfer
+  this data to another processing manager, for instance so as to change
+  service provider.\n\n\u2022 Right to make a complaint to the National Data
+  Protection Authority (CNIL)\n\nIf you consider that Voodoo has defaulted
+  in respect of its obligations in light of your personal data, at
+  any time you may issue a complaint or make a claim to the competent
+  authorities. In France, the competent authority is the National Data
+  Protection Authority (CNIL) to whom you may issue a claim electronically
+  by clicking on the following link: https:\x2f\x2fwww.cnil.fr\x2ffr\x2fplaintes\x2finternet.\n\n<size=36>9.2.
+  Terms for exercising rights<\x2fsize>\n\nYou may exercise the aforementioned
+  rights with a written and detailed request to the following address:
+  dpo@voodoo.io or DPO-Avocats ~ 11 rue The\u0301odule Ribot ~ 75017 PARIS
+  FR.\n\nDue to the obligation of security and confidentiality in Data
+  processing incumbent upon Voodoo, you are hereby informed that your
+  request will be processed subject that you provide proof of your
+  identity, notably by producing a scanned copy of a valid identity
+  document or a signed photocopy of a valid identity document.\n\nVoodoo
+  will determine whether this is admissible or not within one month
+  following receipt of the claim. In such instance as it is deemed
+  admissible, Voodoo will provide all information requested or implement
+  the rights claimed within the aforementioned deadline.\n\nIf, given
+  the complexity of the claim or the number of requests received, the
+  aforementioned deadline cannot be respected, Voodoo will notify you
+  prior to expiry of this deadline, of this deadline being pushed back
+  by a maximum of two months following its decision.\n\nVoodoo hereby
+  notifies you that it will be entitled, where applicable, to object
+  to any requests which are clearly abusive (in their number, repetitive
+  nature, or systematic).\n\nIn such instance as Voodoo does not follow
+  up on your request, we will inform you in the aforementioned deadlines
+  of the grounds on which our decision is based and your option to
+  refer a complaint to the National Data Protection Authority (CNIL).\n\n<size=36>10.
+  PERSONAL DATA SECURITY<\x2fsize>\n\nWe take all necessary security measures
+  so as to prevent as far as practically possible any alteration or
+  loss of your data or any unauthorised access thereunto.\nIn such instance
+  as we should be aware of any illegal access to personal data concerning
+  you and corresponding to processing for which we are responsible,
+  we undertake to notify you of the incident as soon as possible if
+  this fulfils a legal requirement.\n\n<size=36>11. DPO<\x2fsize>\n\nVOODOO
+  has appointed a Data Protection Officer (DPO) with the CNIL, under
+  number DPO-7915.\nTo exercise your rights, please send us an email
+  at: dpo@voodoo.io or write to us at the following address: DPO-Avocats
+  ~ 11 rue The\u0301odule Ribot ~ 75017 PARIS FR.\n\n<size=36>12. UPDATING
+  THE PRESENT POLICY<\x2fsize>\n\nThe present policy may be updated at any
+  time, notably pursuant to legal and\x2for regulatory provisions and\x2for
+  any recommendations of the National Data Protection Authority (CNIL).
+  We hereby invite you to consult this page regularly."

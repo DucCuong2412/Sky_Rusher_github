@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b052b687604a25bfa1ed333ae186e35, type: 3}
+  m_Name: "VoodooSettings"
+  m_EditorClassIdentifier: 
+  MixpanelProdToken: "9d25485f2d39b7e7d3b19747758aef84"
+  MixpanelDevToken: "9d25485f2d39b7e7d3b19747758aef84"
+  MixpanelUsersPercent: 0.05
+  MixpanelUsersPercentPerCohort: 0.05
+  MixpanelUsersPercentForPeople: 0.01
+  GameAnalyticsIosGameKey: "58ed4cf572db7c27d95c466f64223c7a"
+  GameAnalyticsIosSecretKey: "0fb7d45623af4d83d66f825037034119594f809c"
+  GameAnalyticsAndroidGameKey: "e58cdcb92d57e0eda4da275be0e6fb32"
+  GameAnalyticsAndroidSecretKey: "a8583df9e625263304f67da159557c6a0971e68a"
+  FacebookAppId: "152059018835348"
+  FabricOrganizationName: "Voodoo"
+  FabricOrganizationId: "5507f86421463886ee000824"
+  FabricOrganizationApiKey: "b2d694c3b3f7803786265f008024478001d727bf"
+  FabricOrganizationBuildSecret: "5786ed4a903b7e358f446830e3a40b4e661b4473adee33204ec3f37b95455b35"
+  IosAdUnits:
+    BannerAdUnit: "d92bad661f8d436cadb305165644d7b1"
+    InterstitialAdUnit: "09c793c7ad4b4114ace5a23fe237ba20"
+    RewardedVideoAdUnit: "32bc146a8c8645eeb2c1b80b614caaee"
+  AndroidAdUnits:
+    BannerAdUnit: "5d7daa5785c249c2b8962355b270558a"
+    InterstitialAdUnit: "411882a0d89846a2bcaf2db4080f0c7d"
+    RewardedVideoAdUnit: "372a64f2b94d418ca5cc8837f2aee218"
+  TapjoyIosSdkKey: "DBa5INmVQ1-p8b90bkWN_AEBNyo3u64TaZNZDLVGf259fWu5sKFvPBzmztMr"
+  TapjoyAndroidSdkKey: "zuc2MXoPRgeDPOm3T8bE7QEC47Cw4TwCPGcoScD8ACf5peRMxle7ycazXMoY"
+  OguryAndroidAppKey: 
+  RunningABTests:
+  - "Corridor_Form"
+  - "BonusStage"
+  DebugForcedCohort:
+    index: 1
+  Products:
+  - _productId: "com.dubocf.skyrusher.noads"
+    _type: 1
+    _priceInUSD: 2.99
+  CrossPromo:
+    UrlScheme: "iovoodoo27"
+  EnableCrossPromo: 1
+  AppleStoreId: "1340860865"
+  AppRaterDelayAfterLaunchInSeconds: 60
+  AppRaterPostponeCooldownInSeconds: 86400
+  AppRaterMinimumNumberOfGamesPlayed: 5
+  IgnoreTheGoogleKeyError: 0
